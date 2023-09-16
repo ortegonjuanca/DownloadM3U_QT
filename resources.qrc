@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>downloadM3U.ico</file>
+    </qresource>
+</RCC>
